@@ -1,6 +1,6 @@
 # Frequent Pattern Mining 
 
-This project demonstrates frequent pattern mining and association rule generation using the Apriori algorithm. It includes data preprocessing, one-hot encoding and insightful visualizations like support vs. confidence and lift vs. confidence. Ideal for market basket analysis and similar tasks.
+This project demonstrates frequent pattern mining & association rule generation using the Apriori algorithm. It includes data preprocessing, one-hot encoding and insightful visualizations like support vs. confidence and lift vs. confidence. Ideal for market basket analysis and similar tasks.
 
 ## **Features**
 - Data preprocessing and cleaning
